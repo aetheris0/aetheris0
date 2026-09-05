@@ -34,9 +34,6 @@ Lua         ███████████░░░░░░
 Python      ████████░░░░░░░░░
 ```
 
-### ♦ github stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aetheris0\&show_icons=true\&theme=transparent\&hide_border=true)
 
 ---
 
