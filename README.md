@@ -14,7 +14,6 @@
 
 Some of the things I've worked on:
 
-* **Warp Games** — a unblocked games website (heres link https://sites.google.com/view/warp-)
 * **Void** — hack client for other games (kinda discontinued)
 * **Web projects** — websites, launchers, and interactive pages
 
