@@ -14,7 +14,7 @@
 
 Some of the things I've worked on:
 
-* **Void** — hack client for other games (kinda discontinued)
+* **Void** — hack client for other games like bloxd, yohoho, kirka and thats really it (bloxd hack and kirka hack kinda discontinued)
 * **Web projects** — websites, launchers, and interactive pages
 
 ### ♦ currently
